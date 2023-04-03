@@ -19,11 +19,11 @@ cd VirusScanR
 
 ## Contributing
 We welcome contributions from the community! If you have an idea for a feature, or have identified a bug, please open an issue on our Github repository.
-License
 
+## License
 VirusScanR is licensed under the GNU General Public License, which includes a strong copyleft provision. This license requires that anyone who distributes your code or any derivative work of your code must make the source code available under the same license terms.
-Contact
 
+## Contact
 If you have any questions or feedback about VirusScanR, please contact us at whoami_anoint@bugcrowdninja.com.
 
 ## Acknowledgements
