@@ -2,10 +2,10 @@
 VirusScanR is a powerful threat intelligence analysis tool designed for security professionals and researchers. The project is built using the TotalVirus library in R, and allows users to analyze files, URLs, and IP addresses to retrieve information about potential threats.
 
 ## Features
-    * User-friendly interface for fast and easy analysis of potential threats
-    * Support for analysis of files, URLs, and IP addresses
-    * Integration with the VirusTotal API for comprehensive threat analysis
-    * Customizable for specific user or organization needs
+   * User-friendly interface for fast and easy analysis of potential threats
+   * Support for analysis of files, URLs, and IP addresses
+   * Integration with the VirusTotal API for comprehensive threat analysis
+   * Customizable for specific user or organization needs
 
 ## Getting Started
 To use VirusScanR, you will need to have R installed on your machine. 
